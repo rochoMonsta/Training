@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\testw\bin\Debug\testw.exe.config
+C:\Users\rocho\Desktop\testw\bin\Debug\testw.exe
+C:\Users\rocho\Desktop\testw\bin\Debug\testw.pdb
+C:\Users\rocho\Desktop\testw\obj\Debug\testw.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\testw\obj\Debug\testw.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\testw\obj\Debug\testw.exe
+C:\Users\rocho\Desktop\testw\obj\Debug\testw.pdb
