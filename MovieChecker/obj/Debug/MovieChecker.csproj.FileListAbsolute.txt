@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\MovieChecker\bin\Debug\MovieChecker.exe.config
+C:\Users\rocho\Desktop\MovieChecker\bin\Debug\MovieChecker.exe
+C:\Users\rocho\Desktop\MovieChecker\bin\Debug\MovieChecker.pdb
+C:\Users\rocho\Desktop\MovieChecker\obj\Debug\MovieChecker.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\MovieChecker\obj\Debug\MovieChecker.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\MovieChecker\obj\Debug\MovieChecker.exe
+C:\Users\rocho\Desktop\MovieChecker\obj\Debug\MovieChecker.pdb
