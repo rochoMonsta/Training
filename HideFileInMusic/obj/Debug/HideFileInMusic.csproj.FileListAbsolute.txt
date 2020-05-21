@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\HideFileInMusic\bin\Debug\HideFileInMusic.exe.config
+C:\Users\rocho\Desktop\HideFileInMusic\bin\Debug\HideFileInMusic.exe
+C:\Users\rocho\Desktop\HideFileInMusic\bin\Debug\HideFileInMusic.pdb
+C:\Users\rocho\Desktop\HideFileInMusic\obj\Debug\HideFileInMusic.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\HideFileInMusic\obj\Debug\HideFileInMusic.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\HideFileInMusic\obj\Debug\HideFileInMusic.exe
+C:\Users\rocho\Desktop\HideFileInMusic\obj\Debug\HideFileInMusic.pdb
