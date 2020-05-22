@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\JosephusPermutation\bin\Debug\JosephusPermutation.exe.config
+C:\Users\rocho\Desktop\JosephusPermutation\bin\Debug\JosephusPermutation.exe
+C:\Users\rocho\Desktop\JosephusPermutation\bin\Debug\JosephusPermutation.pdb
+C:\Users\rocho\Desktop\JosephusPermutation\obj\Debug\JosephusPermutation.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\JosephusPermutation\obj\Debug\JosephusPermutation.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\JosephusPermutation\obj\Debug\JosephusPermutation.exe
+C:\Users\rocho\Desktop\JosephusPermutation\obj\Debug\JosephusPermutation.pdb

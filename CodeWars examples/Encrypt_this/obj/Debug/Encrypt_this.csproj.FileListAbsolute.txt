@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Encrypt_this\bin\Debug\Encrypt_this.exe.config
+C:\Users\rocho\Desktop\Encrypt_this\bin\Debug\Encrypt_this.exe
+C:\Users\rocho\Desktop\Encrypt_this\bin\Debug\Encrypt_this.pdb
+C:\Users\rocho\Desktop\Encrypt_this\obj\Debug\Encrypt_this.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Encrypt_this\obj\Debug\Encrypt_this.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Encrypt_this\obj\Debug\Encrypt_this.exe
+C:\Users\rocho\Desktop\Encrypt_this\obj\Debug\Encrypt_this.pdb
