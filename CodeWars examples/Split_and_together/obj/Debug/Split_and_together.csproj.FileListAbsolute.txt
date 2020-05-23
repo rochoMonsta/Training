@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Split_and_together\bin\Debug\Split_and_together.exe.config
+C:\Users\rocho\Desktop\Split_and_together\bin\Debug\Split_and_together.exe
+C:\Users\rocho\Desktop\Split_and_together\bin\Debug\Split_and_together.pdb
+C:\Users\rocho\Desktop\Split_and_together\obj\Debug\Split_and_together.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Split_and_together\obj\Debug\Split_and_together.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Split_and_together\obj\Debug\Split_and_together.exe
+C:\Users\rocho\Desktop\Split_and_together\obj\Debug\Split_and_together.pdb
