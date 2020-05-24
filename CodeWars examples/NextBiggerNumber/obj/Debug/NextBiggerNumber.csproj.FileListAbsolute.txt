@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\NextBiggerNumber\bin\Debug\NextBiggerNumber.exe.config
+C:\Users\rocho\Desktop\NextBiggerNumber\bin\Debug\NextBiggerNumber.exe
+C:\Users\rocho\Desktop\NextBiggerNumber\bin\Debug\NextBiggerNumber.pdb
+C:\Users\rocho\Desktop\NextBiggerNumber\obj\Debug\NextBiggerNumber.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\NextBiggerNumber\obj\Debug\NextBiggerNumber.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\NextBiggerNumber\obj\Debug\NextBiggerNumber.exe
+C:\Users\rocho\Desktop\NextBiggerNumber\obj\Debug\NextBiggerNumber.pdb
