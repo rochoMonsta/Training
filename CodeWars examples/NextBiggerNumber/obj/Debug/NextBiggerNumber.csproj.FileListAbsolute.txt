@@ -5,3 +5,10 @@ C:\Users\rocho\Desktop\NextBiggerNumber\obj\Debug\NextBiggerNumber.csprojAssembl
 C:\Users\rocho\Desktop\NextBiggerNumber\obj\Debug\NextBiggerNumber.csproj.CoreCompileInputs.cache
 C:\Users\rocho\Desktop\NextBiggerNumber\obj\Debug\NextBiggerNumber.exe
 C:\Users\rocho\Desktop\NextBiggerNumber\obj\Debug\NextBiggerNumber.pdb
+G:\All\GitHub\Training\CodeWars examples\NextBiggerNumber\bin\Debug\NextBiggerNumber.exe.config
+G:\All\GitHub\Training\CodeWars examples\NextBiggerNumber\bin\Debug\NextBiggerNumber.exe
+G:\All\GitHub\Training\CodeWars examples\NextBiggerNumber\bin\Debug\NextBiggerNumber.pdb
+G:\All\GitHub\Training\CodeWars examples\NextBiggerNumber\obj\Debug\NextBiggerNumber.csprojAssemblyReference.cache
+G:\All\GitHub\Training\CodeWars examples\NextBiggerNumber\obj\Debug\NextBiggerNumber.csproj.CoreCompileInputs.cache
+G:\All\GitHub\Training\CodeWars examples\NextBiggerNumber\obj\Debug\NextBiggerNumber.exe
+G:\All\GitHub\Training\CodeWars examples\NextBiggerNumber\obj\Debug\NextBiggerNumber.pdb
