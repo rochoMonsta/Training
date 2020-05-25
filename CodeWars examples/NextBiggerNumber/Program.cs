@@ -8,7 +8,7 @@ namespace NextBiggerNumber
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(NextBiggerNumber(414));
+            Console.WriteLine(NextBiggerNumber(1234567890));
             Console.ReadLine();
         }
         public static long NextBiggerNumber(long n)
