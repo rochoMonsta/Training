@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\JosephusSurvivor\bin\Debug\JosephusSurvivor.exe.config
+C:\Users\rocho\Desktop\JosephusSurvivor\bin\Debug\JosephusSurvivor.exe
+C:\Users\rocho\Desktop\JosephusSurvivor\bin\Debug\JosephusSurvivor.pdb
+C:\Users\rocho\Desktop\JosephusSurvivor\obj\Debug\JosephusSurvivor.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\JosephusSurvivor\obj\Debug\JosephusSurvivor.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\JosephusSurvivor\obj\Debug\JosephusSurvivor.exe
+C:\Users\rocho\Desktop\JosephusSurvivor\obj\Debug\JosephusSurvivor.pdb
