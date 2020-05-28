@@ -5,3 +5,10 @@ C:\Users\rocho\Desktop\BuildTower\obj\Debug\BuildTower.csprojAssemblyReference.c
 C:\Users\rocho\Desktop\BuildTower\obj\Debug\BuildTower.csproj.CoreCompileInputs.cache
 C:\Users\rocho\Desktop\BuildTower\obj\Debug\BuildTower.exe
 C:\Users\rocho\Desktop\BuildTower\obj\Debug\BuildTower.pdb
+G:\All\GitHub\Training\CodeWars examples\BuildTower\bin\Debug\BuildTower.exe.config
+G:\All\GitHub\Training\CodeWars examples\BuildTower\bin\Debug\BuildTower.exe
+G:\All\GitHub\Training\CodeWars examples\BuildTower\bin\Debug\BuildTower.pdb
+G:\All\GitHub\Training\CodeWars examples\BuildTower\obj\Debug\BuildTower.csprojAssemblyReference.cache
+G:\All\GitHub\Training\CodeWars examples\BuildTower\obj\Debug\BuildTower.csproj.CoreCompileInputs.cache
+G:\All\GitHub\Training\CodeWars examples\BuildTower\obj\Debug\BuildTower.exe
+G:\All\GitHub\Training\CodeWars examples\BuildTower\obj\Debug\BuildTower.pdb
