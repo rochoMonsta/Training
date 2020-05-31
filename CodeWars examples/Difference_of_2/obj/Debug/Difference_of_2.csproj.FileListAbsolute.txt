@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Difference_of_2\bin\Debug\Difference_of_2.exe.config
+C:\Users\rocho\Desktop\Difference_of_2\bin\Debug\Difference_of_2.exe
+C:\Users\rocho\Desktop\Difference_of_2\bin\Debug\Difference_of_2.pdb
+C:\Users\rocho\Desktop\Difference_of_2\obj\Debug\Difference_of_2.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Difference_of_2\obj\Debug\Difference_of_2.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Difference_of_2\obj\Debug\Difference_of_2.exe
+C:\Users\rocho\Desktop\Difference_of_2\obj\Debug\Difference_of_2.pdb
