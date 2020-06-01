@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Sum_of_Digits\bin\Debug\Sum_of_Digits.exe.config
+C:\Users\rocho\Desktop\Sum_of_Digits\bin\Debug\Sum_of_Digits.exe
+C:\Users\rocho\Desktop\Sum_of_Digits\bin\Debug\Sum_of_Digits.pdb
+C:\Users\rocho\Desktop\Sum_of_Digits\obj\Debug\Sum_of_Digits.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Sum_of_Digits\obj\Debug\Sum_of_Digits.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Sum_of_Digits\obj\Debug\Sum_of_Digits.exe
+C:\Users\rocho\Desktop\Sum_of_Digits\obj\Debug\Sum_of_Digits.pdb
