@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Break_camelCase\bin\Debug\Break_camelCase.exe.config
+C:\Users\rocho\Desktop\Break_camelCase\bin\Debug\Break_camelCase.exe
+C:\Users\rocho\Desktop\Break_camelCase\bin\Debug\Break_camelCase.pdb
+C:\Users\rocho\Desktop\Break_camelCase\obj\Debug\Break_camelCase.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Break_camelCase\obj\Debug\Break_camelCase.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Break_camelCase\obj\Debug\Break_camelCase.exe
+C:\Users\rocho\Desktop\Break_camelCase\obj\Debug\Break_camelCase.pdb
