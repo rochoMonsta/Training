@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Onion_array\bin\Debug\Onion_array.exe.config
+C:\Users\rocho\Desktop\Onion_array\bin\Debug\Onion_array.exe
+C:\Users\rocho\Desktop\Onion_array\bin\Debug\Onion_array.pdb
+C:\Users\rocho\Desktop\Onion_array\obj\Debug\Onion_array.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Onion_array\obj\Debug\Onion_array.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Onion_array\obj\Debug\Onion_array.exe
+C:\Users\rocho\Desktop\Onion_array\obj\Debug\Onion_array.pdb
