@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Strings,_Numbers_Calculation\bin\Debug\Strings,_Numbers_Calculation.exe.config
+C:\Users\rocho\Desktop\Strings,_Numbers_Calculation\bin\Debug\Strings,_Numbers_Calculation.exe
+C:\Users\rocho\Desktop\Strings,_Numbers_Calculation\bin\Debug\Strings,_Numbers_Calculation.pdb
+C:\Users\rocho\Desktop\Strings,_Numbers_Calculation\obj\Debug\Strings,_Numbers_Calculation.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Strings,_Numbers_Calculation\obj\Debug\Strings,_Numbers_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Strings,_Numbers_Calculation\obj\Debug\Strings,_Numbers_Calculation.exe
+C:\Users\rocho\Desktop\Strings,_Numbers_Calculation\obj\Debug\Strings,_Numbers_Calculation.pdb
