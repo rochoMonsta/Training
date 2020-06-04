@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Perimeter_of_squares_in_a_rectangle\bin\Debug\Perimeter_of_squares_in_a_rectangle.exe.config
+C:\Users\rocho\Desktop\Perimeter_of_squares_in_a_rectangle\bin\Debug\Perimeter_of_squares_in_a_rectangle.exe
+C:\Users\rocho\Desktop\Perimeter_of_squares_in_a_rectangle\bin\Debug\Perimeter_of_squares_in_a_rectangle.pdb
+C:\Users\rocho\Desktop\Perimeter_of_squares_in_a_rectangle\obj\Debug\Perimeter_of_squares_in_a_rectangle.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Perimeter_of_squares_in_a_rectangle\obj\Debug\Perimeter_of_squares_in_a_rectangle.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Perimeter_of_squares_in_a_rectangle\obj\Debug\Perimeter_of_squares_in_a_rectangle.exe
+C:\Users\rocho\Desktop\Perimeter_of_squares_in_a_rectangle\obj\Debug\Perimeter_of_squares_in_a_rectangle.pdb
