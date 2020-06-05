@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\String_Letter_Counting\bin\Debug\String_Letter_Counting.exe.config
+C:\Users\rocho\Desktop\String_Letter_Counting\bin\Debug\String_Letter_Counting.exe
+C:\Users\rocho\Desktop\String_Letter_Counting\bin\Debug\String_Letter_Counting.pdb
+C:\Users\rocho\Desktop\String_Letter_Counting\obj\Debug\String_Letter_Counting.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\String_Letter_Counting\obj\Debug\String_Letter_Counting.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\String_Letter_Counting\obj\Debug\String_Letter_Counting.exe
+C:\Users\rocho\Desktop\String_Letter_Counting\obj\Debug\String_Letter_Counting.pdb
