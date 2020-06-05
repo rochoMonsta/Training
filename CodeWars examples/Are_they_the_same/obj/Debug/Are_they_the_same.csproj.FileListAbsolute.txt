@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Are_they_the_same\bin\Debug\Are_they_the_same.exe.config
+C:\Users\rocho\Desktop\Are_they_the_same\bin\Debug\Are_they_the_same.exe
+C:\Users\rocho\Desktop\Are_they_the_same\bin\Debug\Are_they_the_same.pdb
+C:\Users\rocho\Desktop\Are_they_the_same\obj\Debug\Are_they_the_same.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Are_they_the_same\obj\Debug\Are_they_the_same.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Are_they_the_same\obj\Debug\Are_they_the_same.exe
+C:\Users\rocho\Desktop\Are_they_the_same\obj\Debug\Are_they_the_same.pdb
