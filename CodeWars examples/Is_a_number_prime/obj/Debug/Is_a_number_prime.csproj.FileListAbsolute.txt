@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Is_a_number_prime\bin\Debug\Is_a_number_prime.exe.config
+C:\Users\rocho\Desktop\Is_a_number_prime\bin\Debug\Is_a_number_prime.exe
+C:\Users\rocho\Desktop\Is_a_number_prime\bin\Debug\Is_a_number_prime.pdb
+C:\Users\rocho\Desktop\Is_a_number_prime\obj\Debug\Is_a_number_prime.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Is_a_number_prime\obj\Debug\Is_a_number_prime.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Is_a_number_prime\obj\Debug\Is_a_number_prime.exe
+C:\Users\rocho\Desktop\Is_a_number_prime\obj\Debug\Is_a_number_prime.pdb
