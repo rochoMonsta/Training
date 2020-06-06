@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Does_my_number_look_big_in_this\bin\Debug\Does_my_number_look_big_in_this.exe.config
+C:\Users\rocho\Desktop\Does_my_number_look_big_in_this\bin\Debug\Does_my_number_look_big_in_this.exe
+C:\Users\rocho\Desktop\Does_my_number_look_big_in_this\bin\Debug\Does_my_number_look_big_in_this.pdb
+C:\Users\rocho\Desktop\Does_my_number_look_big_in_this\obj\Debug\Does_my_number_look_big_in_this.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Does_my_number_look_big_in_this\obj\Debug\Does_my_number_look_big_in_this.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Does_my_number_look_big_in_this\obj\Debug\Does_my_number_look_big_in_this.exe
+C:\Users\rocho\Desktop\Does_my_number_look_big_in_this\obj\Debug\Does_my_number_look_big_in_this.pdb
