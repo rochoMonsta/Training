@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Reversing_and_Combining_Text\bin\Debug\Reversing_and_Combining_Text.exe.config
+C:\Users\rocho\Desktop\Reversing_and_Combining_Text\bin\Debug\Reversing_and_Combining_Text.exe
+C:\Users\rocho\Desktop\Reversing_and_Combining_Text\bin\Debug\Reversing_and_Combining_Text.pdb
+C:\Users\rocho\Desktop\Reversing_and_Combining_Text\obj\Debug\Reversing_and_Combining_Text.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Reversing_and_Combining_Text\obj\Debug\Reversing_and_Combining_Text.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Reversing_and_Combining_Text\obj\Debug\Reversing_and_Combining_Text.exe
+C:\Users\rocho\Desktop\Reversing_and_Combining_Text\obj\Debug\Reversing_and_Combining_Text.pdb
