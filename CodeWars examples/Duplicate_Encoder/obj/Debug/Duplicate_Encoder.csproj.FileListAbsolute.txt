@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Duplicate_Encoder\bin\Debug\Duplicate_Encoder.exe.config
+C:\Users\rocho\Desktop\Duplicate_Encoder\bin\Debug\Duplicate_Encoder.exe
+C:\Users\rocho\Desktop\Duplicate_Encoder\bin\Debug\Duplicate_Encoder.pdb
+C:\Users\rocho\Desktop\Duplicate_Encoder\obj\Debug\Duplicate_Encoder.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Duplicate_Encoder\obj\Debug\Duplicate_Encoder.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Duplicate_Encoder\obj\Debug\Duplicate_Encoder.exe
+C:\Users\rocho\Desktop\Duplicate_Encoder\obj\Debug\Duplicate_Encoder.pdb
