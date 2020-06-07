@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Consonant_value\bin\Debug\Consonant_value.exe.config
+C:\Users\rocho\Desktop\Consonant_value\bin\Debug\Consonant_value.exe
+C:\Users\rocho\Desktop\Consonant_value\bin\Debug\Consonant_value.pdb
+C:\Users\rocho\Desktop\Consonant_value\obj\Debug\Consonant_value.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Consonant_value\obj\Debug\Consonant_value.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Consonant_value\obj\Debug\Consonant_value.exe
+C:\Users\rocho\Desktop\Consonant_value\obj\Debug\Consonant_value.pdb
