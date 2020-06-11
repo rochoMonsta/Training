@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Texting_with_an_old_school_mobile_phone\bin\Debug\Texting_with_an_old_school_mobile_phone.exe.config
+C:\Users\rocho\Desktop\Texting_with_an_old_school_mobile_phone\bin\Debug\Texting_with_an_old_school_mobile_phone.exe
+C:\Users\rocho\Desktop\Texting_with_an_old_school_mobile_phone\bin\Debug\Texting_with_an_old_school_mobile_phone.pdb
+C:\Users\rocho\Desktop\Texting_with_an_old_school_mobile_phone\obj\Debug\Texting_with_an_old_school_mobile_phone.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Texting_with_an_old_school_mobile_phone\obj\Debug\Texting_with_an_old_school_mobile_phone.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Texting_with_an_old_school_mobile_phone\obj\Debug\Texting_with_an_old_school_mobile_phone.exe
+C:\Users\rocho\Desktop\Texting_with_an_old_school_mobile_phone\obj\Debug\Texting_with_an_old_school_mobile_phone.pdb
