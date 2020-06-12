@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Text\bin\Debug\Text.exe.config
+C:\Users\rocho\Desktop\Text\bin\Debug\Text.exe
+C:\Users\rocho\Desktop\Text\bin\Debug\Text.pdb
+C:\Users\rocho\Desktop\Text\obj\Debug\Text.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Text\obj\Debug\Text.exe
+C:\Users\rocho\Desktop\Text\obj\Debug\Text.pdb
