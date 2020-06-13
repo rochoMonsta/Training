@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Sums_of_Parts\bin\Debug\Sums_of_Parts.exe.config
+C:\Users\rocho\Desktop\Sums_of_Parts\bin\Debug\Sums_of_Parts.exe
+C:\Users\rocho\Desktop\Sums_of_Parts\bin\Debug\Sums_of_Parts.pdb
+C:\Users\rocho\Desktop\Sums_of_Parts\obj\Debug\Sums_of_Parts.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Sums_of_Parts\obj\Debug\Sums_of_Parts.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Sums_of_Parts\obj\Debug\Sums_of_Parts.exe
+C:\Users\rocho\Desktop\Sums_of_Parts\obj\Debug\Sums_of_Parts.pdb
