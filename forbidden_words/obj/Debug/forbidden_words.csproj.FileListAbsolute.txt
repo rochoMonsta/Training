@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\forbidden_words\bin\Debug\forbidden_words.exe.config
+C:\Users\rocho\Desktop\forbidden_words\bin\Debug\forbidden_words.exe
+C:\Users\rocho\Desktop\forbidden_words\bin\Debug\forbidden_words.pdb
+C:\Users\rocho\Desktop\forbidden_words\obj\Debug\forbidden_words.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\forbidden_words\obj\Debug\forbidden_words.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\forbidden_words\obj\Debug\forbidden_words.exe
+C:\Users\rocho\Desktop\forbidden_words\obj\Debug\forbidden_words.pdb
