@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Split_Strings\bin\Debug\Split_Strings.exe.config
+C:\Users\rocho\Desktop\Split_Strings\bin\Debug\Split_Strings.exe
+C:\Users\rocho\Desktop\Split_Strings\bin\Debug\Split_Strings.pdb
+C:\Users\rocho\Desktop\Split_Strings\obj\Debug\Split_Strings.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Split_Strings\obj\Debug\Split_Strings.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Split_Strings\obj\Debug\Split_Strings.exe
+C:\Users\rocho\Desktop\Split_Strings\obj\Debug\Split_Strings.pdb
