@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Persistent_Bugger\bin\Debug\Persistent_Bugger.exe.config
+C:\Users\rocho\Desktop\Persistent_Bugger\bin\Debug\Persistent_Bugger.exe
+C:\Users\rocho\Desktop\Persistent_Bugger\bin\Debug\Persistent_Bugger.pdb
+C:\Users\rocho\Desktop\Persistent_Bugger\obj\Debug\Persistent_Bugger.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Persistent_Bugger\obj\Debug\Persistent_Bugger.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Persistent_Bugger\obj\Debug\Persistent_Bugger.exe
+C:\Users\rocho\Desktop\Persistent_Bugger\obj\Debug\Persistent_Bugger.pdb
