@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Detect_Pangram\bin\Debug\Detect_Pangram.exe.config
+C:\Users\rocho\Desktop\Detect_Pangram\bin\Debug\Detect_Pangram.exe
+C:\Users\rocho\Desktop\Detect_Pangram\bin\Debug\Detect_Pangram.pdb
+C:\Users\rocho\Desktop\Detect_Pangram\obj\Debug\Detect_Pangram.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Detect_Pangram\obj\Debug\Detect_Pangram.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Detect_Pangram\obj\Debug\Detect_Pangram.exe
+C:\Users\rocho\Desktop\Detect_Pangram\obj\Debug\Detect_Pangram.pdb
