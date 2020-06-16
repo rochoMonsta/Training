@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Backspaces_in_string\bin\Debug\Backspaces_in_string.exe.config
+C:\Users\rocho\Desktop\Backspaces_in_string\bin\Debug\Backspaces_in_string.exe
+C:\Users\rocho\Desktop\Backspaces_in_string\bin\Debug\Backspaces_in_string.pdb
+C:\Users\rocho\Desktop\Backspaces_in_string\obj\Debug\Backspaces_in_string.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Backspaces_in_string\obj\Debug\Backspaces_in_string.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Backspaces_in_string\obj\Debug\Backspaces_in_string.exe
+C:\Users\rocho\Desktop\Backspaces_in_string\obj\Debug\Backspaces_in_string.pdb
