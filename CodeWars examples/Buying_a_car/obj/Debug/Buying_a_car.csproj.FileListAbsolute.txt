@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Buying_a_car\bin\Debug\Buying_a_car.exe.config
+C:\Users\rocho\Desktop\Buying_a_car\bin\Debug\Buying_a_car.exe
+C:\Users\rocho\Desktop\Buying_a_car\bin\Debug\Buying_a_car.pdb
+C:\Users\rocho\Desktop\Buying_a_car\obj\Debug\Buying_a_car.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Buying_a_car\obj\Debug\Buying_a_car.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Buying_a_car\obj\Debug\Buying_a_car.exe
+C:\Users\rocho\Desktop\Buying_a_car\obj\Debug\Buying_a_car.pdb
