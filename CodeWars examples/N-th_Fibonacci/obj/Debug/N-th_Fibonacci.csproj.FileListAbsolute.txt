@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\N-th_Fibonacci\bin\Debug\N-th_Fibonacci.exe.config
+C:\Users\rocho\Desktop\N-th_Fibonacci\bin\Debug\N-th_Fibonacci.exe
+C:\Users\rocho\Desktop\N-th_Fibonacci\bin\Debug\N-th_Fibonacci.pdb
+C:\Users\rocho\Desktop\N-th_Fibonacci\obj\Debug\N-th_Fibonacci.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\N-th_Fibonacci\obj\Debug\N-th_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\N-th_Fibonacci\obj\Debug\N-th_Fibonacci.exe
+C:\Users\rocho\Desktop\N-th_Fibonacci\obj\Debug\N-th_Fibonacci.pdb
