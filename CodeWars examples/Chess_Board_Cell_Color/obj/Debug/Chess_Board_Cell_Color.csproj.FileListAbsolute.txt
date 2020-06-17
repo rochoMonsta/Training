@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Chess_Board_Cell_Color\bin\Debug\Chess_Board_Cell_Color.exe.config
+C:\Users\rocho\Desktop\Chess_Board_Cell_Color\bin\Debug\Chess_Board_Cell_Color.exe
+C:\Users\rocho\Desktop\Chess_Board_Cell_Color\bin\Debug\Chess_Board_Cell_Color.pdb
+C:\Users\rocho\Desktop\Chess_Board_Cell_Color\obj\Debug\Chess_Board_Cell_Color.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Chess_Board_Cell_Color\obj\Debug\Chess_Board_Cell_Color.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Chess_Board_Cell_Color\obj\Debug\Chess_Board_Cell_Color.exe
+C:\Users\rocho\Desktop\Chess_Board_Cell_Color\obj\Debug\Chess_Board_Cell_Color.pdb
