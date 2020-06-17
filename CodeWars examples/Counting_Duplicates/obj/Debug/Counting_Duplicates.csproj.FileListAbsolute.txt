@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Counting_Duplicates\bin\Debug\Counting_Duplicates.exe.config
+C:\Users\rocho\Desktop\Counting_Duplicates\bin\Debug\Counting_Duplicates.exe
+C:\Users\rocho\Desktop\Counting_Duplicates\bin\Debug\Counting_Duplicates.pdb
+C:\Users\rocho\Desktop\Counting_Duplicates\obj\Debug\Counting_Duplicates.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Counting_Duplicates\obj\Debug\Counting_Duplicates.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Counting_Duplicates\obj\Debug\Counting_Duplicates.exe
+C:\Users\rocho\Desktop\Counting_Duplicates\obj\Debug\Counting_Duplicates.pdb
