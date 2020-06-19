@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Row_of_the_odd_triangle", "Row_of_the_odd_triangle.csproj", "{A75614EF-9E2B-44BD-B9F7-E619654302C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A75614EF-9E2B-44BD-B9F7-E619654302C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75614EF-9E2B-44BD-B9F7-E619654302C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75614EF-9E2B-44BD-B9F7-E619654302C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75614EF-9E2B-44BD-B9F7-E619654302C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A97319BA-CD57-4AB8-916C-1C74DB6B37E0}
+	EndGlobalSection
+EndGlobal

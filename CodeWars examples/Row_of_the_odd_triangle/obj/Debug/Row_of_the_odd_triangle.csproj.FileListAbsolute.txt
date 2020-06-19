@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Row_of_the_odd_triangle\bin\Debug\Row_of_the_odd_triangle.exe.config
+C:\Users\rocho\Desktop\Row_of_the_odd_triangle\bin\Debug\Row_of_the_odd_triangle.exe
+C:\Users\rocho\Desktop\Row_of_the_odd_triangle\bin\Debug\Row_of_the_odd_triangle.pdb
+C:\Users\rocho\Desktop\Row_of_the_odd_triangle\obj\Debug\Row_of_the_odd_triangle.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Row_of_the_odd_triangle\obj\Debug\Row_of_the_odd_triangle.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Row_of_the_odd_triangle\obj\Debug\Row_of_the_odd_triangle.exe
+C:\Users\rocho\Desktop\Row_of_the_odd_triangle\obj\Debug\Row_of_the_odd_triangle.pdb
