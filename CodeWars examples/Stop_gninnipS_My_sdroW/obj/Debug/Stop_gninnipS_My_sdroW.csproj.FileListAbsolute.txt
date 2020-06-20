@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Stop_gninnipS_My_sdroW\bin\Debug\Stop_gninnipS_My_sdroW.exe.config
+C:\Users\rocho\Desktop\Stop_gninnipS_My_sdroW\bin\Debug\Stop_gninnipS_My_sdroW.exe
+C:\Users\rocho\Desktop\Stop_gninnipS_My_sdroW\bin\Debug\Stop_gninnipS_My_sdroW.pdb
+C:\Users\rocho\Desktop\Stop_gninnipS_My_sdroW\obj\Debug\Stop_gninnipS_My_sdroW.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Stop_gninnipS_My_sdroW\obj\Debug\Stop_gninnipS_My_sdroW.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Stop_gninnipS_My_sdroW\obj\Debug\Stop_gninnipS_My_sdroW.exe
+C:\Users\rocho\Desktop\Stop_gninnipS_My_sdroW\obj\Debug\Stop_gninnipS_My_sdroW.pdb
