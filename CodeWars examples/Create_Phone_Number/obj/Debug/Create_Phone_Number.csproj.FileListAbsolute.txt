@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Create_Phone_Number\bin\Debug\Create_Phone_Number.exe.config
+C:\Users\rocho\Desktop\Create_Phone_Number\bin\Debug\Create_Phone_Number.exe
+C:\Users\rocho\Desktop\Create_Phone_Number\bin\Debug\Create_Phone_Number.pdb
+C:\Users\rocho\Desktop\Create_Phone_Number\obj\Debug\Create_Phone_Number.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Create_Phone_Number\obj\Debug\Create_Phone_Number.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Create_Phone_Number\obj\Debug\Create_Phone_Number.exe
+C:\Users\rocho\Desktop\Create_Phone_Number\obj\Debug\Create_Phone_Number.pdb
