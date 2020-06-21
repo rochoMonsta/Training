@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Decode_the_Morse_code\bin\Debug\Decode_the_Morse_code.exe.config
+C:\Users\rocho\Desktop\Decode_the_Morse_code\bin\Debug\Decode_the_Morse_code.exe
+C:\Users\rocho\Desktop\Decode_the_Morse_code\bin\Debug\Decode_the_Morse_code.pdb
+C:\Users\rocho\Desktop\Decode_the_Morse_code\obj\Debug\Decode_the_Morse_code.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Decode_the_Morse_code\obj\Debug\Decode_the_Morse_code.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Decode_the_Morse_code\obj\Debug\Decode_the_Morse_code.exe
+C:\Users\rocho\Desktop\Decode_the_Morse_code\obj\Debug\Decode_the_Morse_code.pdb
