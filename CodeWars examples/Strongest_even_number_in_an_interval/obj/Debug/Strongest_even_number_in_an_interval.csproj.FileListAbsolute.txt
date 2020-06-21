@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Strongest_even_number_in_an_interval\bin\Debug\Strongest_even_number_in_an_interval.exe.config
+C:\Users\rocho\Desktop\Strongest_even_number_in_an_interval\bin\Debug\Strongest_even_number_in_an_interval.exe
+C:\Users\rocho\Desktop\Strongest_even_number_in_an_interval\bin\Debug\Strongest_even_number_in_an_interval.pdb
+C:\Users\rocho\Desktop\Strongest_even_number_in_an_interval\obj\Debug\Strongest_even_number_in_an_interval.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Strongest_even_number_in_an_interval\obj\Debug\Strongest_even_number_in_an_interval.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Strongest_even_number_in_an_interval\obj\Debug\Strongest_even_number_in_an_interval.exe
+C:\Users\rocho\Desktop\Strongest_even_number_in_an_interval\obj\Debug\Strongest_even_number_in_an_interval.pdb
