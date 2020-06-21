@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Make_the_Deadfish_swim\bin\Debug\Make_the_Deadfish_swim.exe.config
+C:\Users\rocho\Desktop\Make_the_Deadfish_swim\bin\Debug\Make_the_Deadfish_swim.exe
+C:\Users\rocho\Desktop\Make_the_Deadfish_swim\bin\Debug\Make_the_Deadfish_swim.pdb
+C:\Users\rocho\Desktop\Make_the_Deadfish_swim\obj\Debug\Make_the_Deadfish_swim.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Make_the_Deadfish_swim\obj\Debug\Make_the_Deadfish_swim.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Make_the_Deadfish_swim\obj\Debug\Make_the_Deadfish_swim.exe
+C:\Users\rocho\Desktop\Make_the_Deadfish_swim\obj\Debug\Make_the_Deadfish_swim.pdb
