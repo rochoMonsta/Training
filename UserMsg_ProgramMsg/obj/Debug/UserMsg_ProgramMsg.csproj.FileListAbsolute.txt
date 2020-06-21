@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\UserMsg_ProgramMsg\bin\Debug\UserMsg_ProgramMsg.exe.config
+C:\Users\rocho\Desktop\UserMsg_ProgramMsg\bin\Debug\UserMsg_ProgramMsg.exe
+C:\Users\rocho\Desktop\UserMsg_ProgramMsg\bin\Debug\UserMsg_ProgramMsg.pdb
+C:\Users\rocho\Desktop\UserMsg_ProgramMsg\obj\Debug\UserMsg_ProgramMsg.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\UserMsg_ProgramMsg\obj\Debug\UserMsg_ProgramMsg.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\UserMsg_ProgramMsg\obj\Debug\UserMsg_ProgramMsg.exe
+C:\Users\rocho\Desktop\UserMsg_ProgramMsg\obj\Debug\UserMsg_ProgramMsg.pdb
