@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Multiples_of_3_or_5\bin\Debug\Multiples_of_3_or_5.exe.config
+C:\Users\rocho\Desktop\Multiples_of_3_or_5\bin\Debug\Multiples_of_3_or_5.exe
+C:\Users\rocho\Desktop\Multiples_of_3_or_5\bin\Debug\Multiples_of_3_or_5.pdb
+C:\Users\rocho\Desktop\Multiples_of_3_or_5\obj\Debug\Multiples_of_3_or_5.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Multiples_of_3_or_5\obj\Debug\Multiples_of_3_or_5.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Multiples_of_3_or_5\obj\Debug\Multiples_of_3_or_5.exe
+C:\Users\rocho\Desktop\Multiples_of_3_or_5\obj\Debug\Multiples_of_3_or_5.pdb
