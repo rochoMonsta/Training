@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Christmas_tree\bin\Debug\Christmas_tree.exe.config
+C:\Users\rocho\Desktop\Christmas_tree\bin\Debug\Christmas_tree.exe
+C:\Users\rocho\Desktop\Christmas_tree\bin\Debug\Christmas_tree.pdb
+C:\Users\rocho\Desktop\Christmas_tree\obj\Debug\Christmas_tree.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Christmas_tree\obj\Debug\Christmas_tree.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Christmas_tree\obj\Debug\Christmas_tree.exe
+C:\Users\rocho\Desktop\Christmas_tree\obj\Debug\Christmas_tree.pdb
