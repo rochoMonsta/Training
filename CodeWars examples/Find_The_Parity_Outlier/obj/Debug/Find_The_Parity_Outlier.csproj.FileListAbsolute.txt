@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Find_The_Parity_Outlier\bin\Debug\Find_The_Parity_Outlier.exe.config
+C:\Users\rocho\Desktop\Find_The_Parity_Outlier\bin\Debug\Find_The_Parity_Outlier.exe
+C:\Users\rocho\Desktop\Find_The_Parity_Outlier\bin\Debug\Find_The_Parity_Outlier.pdb
+C:\Users\rocho\Desktop\Find_The_Parity_Outlier\obj\Debug\Find_The_Parity_Outlier.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Find_The_Parity_Outlier\obj\Debug\Find_The_Parity_Outlier.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Find_The_Parity_Outlier\obj\Debug\Find_The_Parity_Outlier.exe
+C:\Users\rocho\Desktop\Find_The_Parity_Outlier\obj\Debug\Find_The_Parity_Outlier.pdb
