@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Take_a_Ten_Minute_Walk\bin\Debug\Take_a_Ten_Minute_Walk.exe.config
+C:\Users\rocho\Desktop\Take_a_Ten_Minute_Walk\bin\Debug\Take_a_Ten_Minute_Walk.exe
+C:\Users\rocho\Desktop\Take_a_Ten_Minute_Walk\bin\Debug\Take_a_Ten_Minute_Walk.pdb
+C:\Users\rocho\Desktop\Take_a_Ten_Minute_Walk\obj\Debug\Take_a_Ten_Minute_Walk.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Take_a_Ten_Minute_Walk\obj\Debug\Take_a_Ten_Minute_Walk.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Take_a_Ten_Minute_Walk\obj\Debug\Take_a_Ten_Minute_Walk.exe
+C:\Users\rocho\Desktop\Take_a_Ten_Minute_Walk\obj\Debug\Take_a_Ten_Minute_Walk.pdb
