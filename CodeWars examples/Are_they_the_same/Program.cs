@@ -10,7 +10,7 @@ namespace Are_they_the_same
             int[] a = { 121, 144, 19, 161, 19, 144, 19, 11 };
             int[] b = { 121, 14641, 20736, 361, 25921, 361, 20736 };
             Console.WriteLine(comp(a, b));
-            Console.ReadLine();
+            //Console.ReadLine();
         }
         public static bool comp(int[] a, int[] b)
         {
