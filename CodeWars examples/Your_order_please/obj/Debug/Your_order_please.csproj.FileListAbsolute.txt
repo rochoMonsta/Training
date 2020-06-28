@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Your_order_please\bin\Debug\Your_order_please.exe.config
+C:\Users\rocho\Desktop\Your_order_please\bin\Debug\Your_order_please.exe
+C:\Users\rocho\Desktop\Your_order_please\bin\Debug\Your_order_please.pdb
+C:\Users\rocho\Desktop\Your_order_please\obj\Debug\Your_order_please.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Your_order_please\obj\Debug\Your_order_please.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Your_order_please\obj\Debug\Your_order_please.exe
+C:\Users\rocho\Desktop\Your_order_please\obj\Debug\Your_order_please.pdb
