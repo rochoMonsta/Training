@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Vasya_Clerk\bin\Debug\Vasya_Clerk.exe.config
+C:\Users\rocho\Desktop\Vasya_Clerk\bin\Debug\Vasya_Clerk.exe
+C:\Users\rocho\Desktop\Vasya_Clerk\bin\Debug\Vasya_Clerk.pdb
+C:\Users\rocho\Desktop\Vasya_Clerk\obj\Debug\Vasya_Clerk.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Vasya_Clerk\obj\Debug\Vasya_Clerk.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Vasya_Clerk\obj\Debug\Vasya_Clerk.exe
+C:\Users\rocho\Desktop\Vasya_Clerk\obj\Debug\Vasya_Clerk.pdb
