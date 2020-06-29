@@ -5,3 +5,10 @@ C:\Users\rocho\Desktop\Vasya_Clerk\obj\Debug\Vasya_Clerk.csprojAssemblyReference
 C:\Users\rocho\Desktop\Vasya_Clerk\obj\Debug\Vasya_Clerk.csproj.CoreCompileInputs.cache
 C:\Users\rocho\Desktop\Vasya_Clerk\obj\Debug\Vasya_Clerk.exe
 C:\Users\rocho\Desktop\Vasya_Clerk\obj\Debug\Vasya_Clerk.pdb
+G:\All\GitHub\Training\CodeWars examples\Vasya_Clerk\bin\Debug\Vasya_Clerk.exe.config
+G:\All\GitHub\Training\CodeWars examples\Vasya_Clerk\bin\Debug\Vasya_Clerk.exe
+G:\All\GitHub\Training\CodeWars examples\Vasya_Clerk\bin\Debug\Vasya_Clerk.pdb
+G:\All\GitHub\Training\CodeWars examples\Vasya_Clerk\obj\Debug\Vasya_Clerk.csprojAssemblyReference.cache
+G:\All\GitHub\Training\CodeWars examples\Vasya_Clerk\obj\Debug\Vasya_Clerk.csproj.CoreCompileInputs.cache
+G:\All\GitHub\Training\CodeWars examples\Vasya_Clerk\obj\Debug\Vasya_Clerk.exe
+G:\All\GitHub\Training\CodeWars examples\Vasya_Clerk\obj\Debug\Vasya_Clerk.pdb

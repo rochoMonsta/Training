@@ -5,3 +5,10 @@ C:\Users\rocho\Desktop\HideFileInMusic\obj\Debug\HideFileInMusic.csprojAssemblyR
 C:\Users\rocho\Desktop\HideFileInMusic\obj\Debug\HideFileInMusic.csproj.CoreCompileInputs.cache
 C:\Users\rocho\Desktop\HideFileInMusic\obj\Debug\HideFileInMusic.exe
 C:\Users\rocho\Desktop\HideFileInMusic\obj\Debug\HideFileInMusic.pdb
+G:\All\GitHub\Training\HideFileInMusic\bin\Debug\HideFileInMusic.exe.config
+G:\All\GitHub\Training\HideFileInMusic\bin\Debug\HideFileInMusic.exe
+G:\All\GitHub\Training\HideFileInMusic\bin\Debug\HideFileInMusic.pdb
+G:\All\GitHub\Training\HideFileInMusic\obj\Debug\HideFileInMusic.csprojAssemblyReference.cache
+G:\All\GitHub\Training\HideFileInMusic\obj\Debug\HideFileInMusic.csproj.CoreCompileInputs.cache
+G:\All\GitHub\Training\HideFileInMusic\obj\Debug\HideFileInMusic.exe
+G:\All\GitHub\Training\HideFileInMusic\obj\Debug\HideFileInMusic.pdb

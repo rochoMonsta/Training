@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Help_the_bookseller\bin\Debug\Help_the_bookseller.exe.config
+C:\Users\rocho\Desktop\Help_the_bookseller\bin\Debug\Help_the_bookseller.exe
+C:\Users\rocho\Desktop\Help_the_bookseller\bin\Debug\Help_the_bookseller.pdb
+C:\Users\rocho\Desktop\Help_the_bookseller\obj\Debug\Help_the_bookseller.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Help_the_bookseller\obj\Debug\Help_the_bookseller.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Help_the_bookseller\obj\Debug\Help_the_bookseller.exe
+C:\Users\rocho\Desktop\Help_the_bookseller\obj\Debug\Help_the_bookseller.pdb
