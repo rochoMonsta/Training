@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Build_a_pile_of_Cubes\obj\Debug\Build_a_pile_of_Cubes.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Build_a_pile_of_Cubes\obj\Debug\Build_a_pile_of_Cubes.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Build_a_pile_of_Cubes\bin\Debug\Build_a_pile_of_Cubes.exe.config
+C:\Users\rocho\Desktop\Build_a_pile_of_Cubes\bin\Debug\Build_a_pile_of_Cubes.exe
+C:\Users\rocho\Desktop\Build_a_pile_of_Cubes\bin\Debug\Build_a_pile_of_Cubes.pdb
+C:\Users\rocho\Desktop\Build_a_pile_of_Cubes\obj\Debug\Build_a_pile_of_Cubes.exe
+C:\Users\rocho\Desktop\Build_a_pile_of_Cubes\obj\Debug\Build_a_pile_of_Cubes.pdb
