@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Tribonacci_Sequence\bin\Debug\Tribonacci_Sequence.exe.config
+C:\Users\rocho\Desktop\Tribonacci_Sequence\bin\Debug\Tribonacci_Sequence.exe
+C:\Users\rocho\Desktop\Tribonacci_Sequence\bin\Debug\Tribonacci_Sequence.pdb
+C:\Users\rocho\Desktop\Tribonacci_Sequence\obj\Debug\Tribonacci_Sequence.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Tribonacci_Sequence\obj\Debug\Tribonacci_Sequence.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Tribonacci_Sequence\obj\Debug\Tribonacci_Sequence.exe
+C:\Users\rocho\Desktop\Tribonacci_Sequence\obj\Debug\Tribonacci_Sequence.pdb
