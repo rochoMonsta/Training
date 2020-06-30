@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Count_the_divisible_numbers\bin\Debug\Count_the_divisible_numbers.exe.config
+C:\Users\rocho\Desktop\Count_the_divisible_numbers\bin\Debug\Count_the_divisible_numbers.exe
+C:\Users\rocho\Desktop\Count_the_divisible_numbers\bin\Debug\Count_the_divisible_numbers.pdb
+C:\Users\rocho\Desktop\Count_the_divisible_numbers\obj\Debug\Count_the_divisible_numbers.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Count_the_divisible_numbers\obj\Debug\Count_the_divisible_numbers.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Count_the_divisible_numbers\obj\Debug\Count_the_divisible_numbers.exe
+C:\Users\rocho\Desktop\Count_the_divisible_numbers\obj\Debug\Count_the_divisible_numbers.pdb
