@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Easy_Balance_Checking\bin\Debug\Easy_Balance_Checking.exe.config
+C:\Users\rocho\Desktop\Easy_Balance_Checking\bin\Debug\Easy_Balance_Checking.exe
+C:\Users\rocho\Desktop\Easy_Balance_Checking\bin\Debug\Easy_Balance_Checking.pdb
+C:\Users\rocho\Desktop\Easy_Balance_Checking\obj\Debug\Easy_Balance_Checking.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Easy_Balance_Checking\obj\Debug\Easy_Balance_Checking.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Easy_Balance_Checking\obj\Debug\Easy_Balance_Checking.exe
+C:\Users\rocho\Desktop\Easy_Balance_Checking\obj\Debug\Easy_Balance_Checking.pdb
