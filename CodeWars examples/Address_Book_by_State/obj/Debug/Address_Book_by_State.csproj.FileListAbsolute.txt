@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Address_Book_by_State\obj\Debug\Address_Book_by_State.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Address_Book_by_State\obj\Debug\Address_Book_by_State.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Address_Book_by_State\bin\Debug\Address_Book_by_State.exe.config
+C:\Users\rocho\Desktop\Address_Book_by_State\bin\Debug\Address_Book_by_State.exe
+C:\Users\rocho\Desktop\Address_Book_by_State\bin\Debug\Address_Book_by_State.pdb
+C:\Users\rocho\Desktop\Address_Book_by_State\obj\Debug\Address_Book_by_State.exe
+C:\Users\rocho\Desktop\Address_Book_by_State\obj\Debug\Address_Book_by_State.pdb
