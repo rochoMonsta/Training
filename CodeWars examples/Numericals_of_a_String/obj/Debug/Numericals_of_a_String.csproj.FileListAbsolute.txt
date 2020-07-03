@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Numericals_of_a_String\bin\Debug\Numericals_of_a_String.exe.config
+C:\Users\rocho\Desktop\Numericals_of_a_String\bin\Debug\Numericals_of_a_String.exe
+C:\Users\rocho\Desktop\Numericals_of_a_String\bin\Debug\Numericals_of_a_String.pdb
+C:\Users\rocho\Desktop\Numericals_of_a_String\obj\Debug\Numericals_of_a_String.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Numericals_of_a_String\obj\Debug\Numericals_of_a_String.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Numericals_of_a_String\obj\Debug\Numericals_of_a_String.exe
+C:\Users\rocho\Desktop\Numericals_of_a_String\obj\Debug\Numericals_of_a_String.pdb
