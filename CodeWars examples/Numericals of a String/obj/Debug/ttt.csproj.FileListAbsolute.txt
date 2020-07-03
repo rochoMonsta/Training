@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\ttt\bin\Debug\ttt.exe.config
+C:\Users\rocho\Desktop\ttt\bin\Debug\ttt.exe
+C:\Users\rocho\Desktop\ttt\bin\Debug\ttt.pdb
+C:\Users\rocho\Desktop\ttt\obj\Debug\ttt.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\ttt\obj\Debug\ttt.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\ttt\obj\Debug\ttt.exe
+C:\Users\rocho\Desktop\ttt\obj\Debug\ttt.pdb
