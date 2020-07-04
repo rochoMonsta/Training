@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Look_and_say_sequence_generator\bin\Debug\Look_and_say_sequence_generator.exe.config
+C:\Users\rocho\Desktop\Look_and_say_sequence_generator\bin\Debug\Look_and_say_sequence_generator.exe
+C:\Users\rocho\Desktop\Look_and_say_sequence_generator\bin\Debug\Look_and_say_sequence_generator.pdb
+C:\Users\rocho\Desktop\Look_and_say_sequence_generator\obj\Debug\Look_and_say_sequence_generator.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Look_and_say_sequence_generator\obj\Debug\Look_and_say_sequence_generator.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Look_and_say_sequence_generator\obj\Debug\Look_and_say_sequence_generator.exe
+C:\Users\rocho\Desktop\Look_and_say_sequence_generator\obj\Debug\Look_and_say_sequence_generator.pdb

@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
 namespace Numericals_of_a_String
 {
@@ -12,23 +14,22 @@ namespace Numericals_of_a_String
         }
         public static string Numericals(string s)
         {
-            string result = "";
+            StringBuilder result = new StringBuilder("");
             var letter_dict = new Dictionary<char, int>();
             foreach (var letter in s)
             {
-                List<char> dict_keys = new List<char>(letter_dict.Keys);
-                if (dict_keys.Contains(letter))
+                if (letter_dict.Keys.Contains(letter))
                 {
                     letter_dict[letter]++;
-                    result += letter_dict[letter];
+                    result.Append(letter_dict[letter]);
                 }
                 else
                 {
                     letter_dict.Add(letter, 1);
-                    result += letter_dict[letter];
+                    result.Append(letter_dict[letter]);
                 }
             }
-            return result;
+            return result.ToString();
         }
     }
 }
