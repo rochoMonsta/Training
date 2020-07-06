@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Pyramid_Array\bin\Debug\Pyramid_Array.exe.config
+C:\Users\rocho\Desktop\Pyramid_Array\bin\Debug\Pyramid_Array.exe
+C:\Users\rocho\Desktop\Pyramid_Array\bin\Debug\Pyramid_Array.pdb
+C:\Users\rocho\Desktop\Pyramid_Array\obj\Debug\Pyramid_Array.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Pyramid_Array\obj\Debug\Pyramid_Array.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Pyramid_Array\obj\Debug\Pyramid_Array.exe
+C:\Users\rocho\Desktop\Pyramid_Array\obj\Debug\Pyramid_Array.pdb
