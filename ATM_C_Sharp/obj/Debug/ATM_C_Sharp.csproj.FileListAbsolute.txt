@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\ATM_C_Sharp\bin\Debug\ATM_C_Sharp.exe.config
+C:\Users\rocho\Desktop\ATM_C_Sharp\bin\Debug\ATM_C_Sharp.exe
+C:\Users\rocho\Desktop\ATM_C_Sharp\bin\Debug\ATM_C_Sharp.pdb
+C:\Users\rocho\Desktop\ATM_C_Sharp\obj\Debug\ATM_C_Sharp.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\ATM_C_Sharp\obj\Debug\ATM_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\ATM_C_Sharp\obj\Debug\ATM_C_Sharp.exe
+C:\Users\rocho\Desktop\ATM_C_Sharp\obj\Debug\ATM_C_Sharp.pdb
