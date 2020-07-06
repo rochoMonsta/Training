@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\N_smallest_elements_in_original_order\bin\Debug\N_smallest_elements_in_original_order.exe.config
+C:\Users\rocho\Desktop\N_smallest_elements_in_original_order\bin\Debug\N_smallest_elements_in_original_order.exe
+C:\Users\rocho\Desktop\N_smallest_elements_in_original_order\bin\Debug\N_smallest_elements_in_original_order.pdb
+C:\Users\rocho\Desktop\N_smallest_elements_in_original_order\obj\Debug\N_smallest_elements_in_original_order.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\N_smallest_elements_in_original_order\obj\Debug\N_smallest_elements_in_original_order.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\N_smallest_elements_in_original_order\obj\Debug\N_smallest_elements_in_original_order.exe
+C:\Users\rocho\Desktop\N_smallest_elements_in_original_order\obj\Debug\N_smallest_elements_in_original_order.pdb

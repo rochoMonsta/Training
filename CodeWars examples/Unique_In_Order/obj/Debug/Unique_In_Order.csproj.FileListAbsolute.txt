@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Unique_In_Order\bin\Debug\Unique_In_Order.exe.config
+C:\Users\rocho\Desktop\Unique_In_Order\bin\Debug\Unique_In_Order.exe
+C:\Users\rocho\Desktop\Unique_In_Order\bin\Debug\Unique_In_Order.pdb
+C:\Users\rocho\Desktop\Unique_In_Order\obj\Debug\Unique_In_Order.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Unique_In_Order\obj\Debug\Unique_In_Order.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Unique_In_Order\obj\Debug\Unique_In_Order.exe
+C:\Users\rocho\Desktop\Unique_In_Order\obj\Debug\Unique_In_Order.pdb
