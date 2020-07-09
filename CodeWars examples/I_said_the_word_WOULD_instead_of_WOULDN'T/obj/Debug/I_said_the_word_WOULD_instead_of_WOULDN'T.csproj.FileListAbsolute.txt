@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\I_said_the_word_WOULD_instead_of_WOULDN'T\bin\Debug\I_said_the_word_WOULD_instead_of_WOULDN'T.exe.config
+C:\Users\rocho\Desktop\I_said_the_word_WOULD_instead_of_WOULDN'T\bin\Debug\I_said_the_word_WOULD_instead_of_WOULDN'T.exe
+C:\Users\rocho\Desktop\I_said_the_word_WOULD_instead_of_WOULDN'T\bin\Debug\I_said_the_word_WOULD_instead_of_WOULDN'T.pdb
+C:\Users\rocho\Desktop\I_said_the_word_WOULD_instead_of_WOULDN'T\obj\Debug\I_said_the_word_WOULD_instead_of_WOULDN'T.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\I_said_the_word_WOULD_instead_of_WOULDN'T\obj\Debug\I_said_the_word_WOULD_instead_of_WOULDN'T.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\I_said_the_word_WOULD_instead_of_WOULDN'T\obj\Debug\I_said_the_word_WOULD_instead_of_WOULDN'T.exe
+C:\Users\rocho\Desktop\I_said_the_word_WOULD_instead_of_WOULDN'T\obj\Debug\I_said_the_word_WOULD_instead_of_WOULDN'T.pdb
