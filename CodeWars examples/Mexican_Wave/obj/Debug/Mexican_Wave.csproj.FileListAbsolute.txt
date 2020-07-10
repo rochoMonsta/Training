@@ -5,3 +5,10 @@ C:\Users\rocho\Desktop\Mexican_Wave\obj\Debug\Mexican_Wave.csprojAssemblyReferen
 C:\Users\rocho\Desktop\Mexican_Wave\obj\Debug\Mexican_Wave.csproj.CoreCompileInputs.cache
 C:\Users\rocho\Desktop\Mexican_Wave\obj\Debug\Mexican_Wave.exe
 C:\Users\rocho\Desktop\Mexican_Wave\obj\Debug\Mexican_Wave.pdb
+G:\All\GitHub\Training\CodeWars examples\Mexican_Wave\bin\Debug\Mexican_Wave.exe.config
+G:\All\GitHub\Training\CodeWars examples\Mexican_Wave\bin\Debug\Mexican_Wave.exe
+G:\All\GitHub\Training\CodeWars examples\Mexican_Wave\bin\Debug\Mexican_Wave.pdb
+G:\All\GitHub\Training\CodeWars examples\Mexican_Wave\obj\Debug\Mexican_Wave.csprojAssemblyReference.cache
+G:\All\GitHub\Training\CodeWars examples\Mexican_Wave\obj\Debug\Mexican_Wave.csproj.CoreCompileInputs.cache
+G:\All\GitHub\Training\CodeWars examples\Mexican_Wave\obj\Debug\Mexican_Wave.exe
+G:\All\GitHub\Training\CodeWars examples\Mexican_Wave\obj\Debug\Mexican_Wave.pdb
