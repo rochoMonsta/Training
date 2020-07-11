@@ -5,3 +5,10 @@ C:\Users\rocho\Desktop\ATM_C_Sharp\obj\Debug\ATM_C_Sharp.csprojAssemblyReference
 C:\Users\rocho\Desktop\ATM_C_Sharp\obj\Debug\ATM_C_Sharp.csproj.CoreCompileInputs.cache
 C:\Users\rocho\Desktop\ATM_C_Sharp\obj\Debug\ATM_C_Sharp.exe
 C:\Users\rocho\Desktop\ATM_C_Sharp\obj\Debug\ATM_C_Sharp.pdb
+G:\All\GitHub\Training\ATM_C_Sharp\bin\Debug\ATM_C_Sharp.exe.config
+G:\All\GitHub\Training\ATM_C_Sharp\bin\Debug\ATM_C_Sharp.exe
+G:\All\GitHub\Training\ATM_C_Sharp\bin\Debug\ATM_C_Sharp.pdb
+G:\All\GitHub\Training\ATM_C_Sharp\obj\Debug\ATM_C_Sharp.csprojAssemblyReference.cache
+G:\All\GitHub\Training\ATM_C_Sharp\obj\Debug\ATM_C_Sharp.csproj.CoreCompileInputs.cache
+G:\All\GitHub\Training\ATM_C_Sharp\obj\Debug\ATM_C_Sharp.exe
+G:\All\GitHub\Training\ATM_C_Sharp\obj\Debug\ATM_C_Sharp.pdb

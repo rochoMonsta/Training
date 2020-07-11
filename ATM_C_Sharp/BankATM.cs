@@ -26,7 +26,8 @@ namespace ATM_C_Sharp
         {
             if (IsEnterPin)
             {
-                Console.WriteLine("Select the operation you want to perform:\n\tTransfer: press 1\n\tEnd: press 0\n\tShow balance: press 2\n");
+                Console.WriteLine("Select the operation you want to perform:\n\tTransfer: press 1\n\tEnd: press 0\n\tShow balance: press 2\n\t" +
+                    "Exit: press 3\n");
                 if (Int32.TryParse(Console.ReadLine(), out int result))
                 {
                     switch (result)
@@ -37,6 +38,8 @@ namespace ATM_C_Sharp
                             Transfer(bankCard); break;
                         case 2:
                             ShowBalance(bankCard); break;
+                        case 3:
+                            EndAndExit(bankCard); break;
                         default:
                             Console.WriteLine("This operation doesn't exist."); break;
                     }
@@ -101,6 +104,28 @@ namespace ATM_C_Sharp
                 Console.WriteLine("Your balance: " + card_owner_account.Balance + "$");
 
                 ChooseOperation(bankCard);
+            }
+        }
+        private void EndAndExit(BankCard bankCard)
+        {
+            if (IsEnterPin)
+            {
+                Console.Write("End and exit? (<yes> or <no>): ");
+                string result = Console.ReadLine();
+                while (result != "yes" && result != "no")
+                {
+                    Console.Write("End and exit? (<yes> or <no>): ");
+                    result = Console.ReadLine();
+                }
+
+                var card_owner_account = bankDataBase.GetBankAccount(bankCard.UniqueRoom);
+                switch (result)
+                {
+                    case "yes": Console.WriteLine($"Thank you and goodbye. {card_owner_account.AccountHolder.Name} " +
+                        $"{card_owner_account.AccountHolder.Surname}!");
+                        break;
+                    case "no": ChooseOperation(bankCard); break;
+                }
             }
         }
     }
