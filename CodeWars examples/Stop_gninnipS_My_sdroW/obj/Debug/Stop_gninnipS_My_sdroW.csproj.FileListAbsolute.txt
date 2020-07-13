@@ -5,3 +5,10 @@ C:\Users\rocho\Desktop\Stop_gninnipS_My_sdroW\obj\Debug\Stop_gninnipS_My_sdroW.c
 C:\Users\rocho\Desktop\Stop_gninnipS_My_sdroW\obj\Debug\Stop_gninnipS_My_sdroW.csproj.CoreCompileInputs.cache
 C:\Users\rocho\Desktop\Stop_gninnipS_My_sdroW\obj\Debug\Stop_gninnipS_My_sdroW.exe
 C:\Users\rocho\Desktop\Stop_gninnipS_My_sdroW\obj\Debug\Stop_gninnipS_My_sdroW.pdb
+G:\All\GitHub\Training\CodeWars examples\Stop_gninnipS_My_sdroW\bin\Debug\Stop_gninnipS_My_sdroW.exe.config
+G:\All\GitHub\Training\CodeWars examples\Stop_gninnipS_My_sdroW\bin\Debug\Stop_gninnipS_My_sdroW.exe
+G:\All\GitHub\Training\CodeWars examples\Stop_gninnipS_My_sdroW\bin\Debug\Stop_gninnipS_My_sdroW.pdb
+G:\All\GitHub\Training\CodeWars examples\Stop_gninnipS_My_sdroW\obj\Debug\Stop_gninnipS_My_sdroW.csprojAssemblyReference.cache
+G:\All\GitHub\Training\CodeWars examples\Stop_gninnipS_My_sdroW\obj\Debug\Stop_gninnipS_My_sdroW.csproj.CoreCompileInputs.cache
+G:\All\GitHub\Training\CodeWars examples\Stop_gninnipS_My_sdroW\obj\Debug\Stop_gninnipS_My_sdroW.exe
+G:\All\GitHub\Training\CodeWars examples\Stop_gninnipS_My_sdroW\obj\Debug\Stop_gninnipS_My_sdroW.pdb
