@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\EndWithTest\bin\Debug\EndWithTest.exe.config
+C:\Users\rocho\Desktop\EndWithTest\bin\Debug\EndWithTest.exe
+C:\Users\rocho\Desktop\EndWithTest\bin\Debug\EndWithTest.pdb
+C:\Users\rocho\Desktop\EndWithTest\obj\Debug\EndWithTest.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\EndWithTest\obj\Debug\EndWithTest.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\EndWithTest\obj\Debug\EndWithTest.exe
+C:\Users\rocho\Desktop\EndWithTest\obj\Debug\EndWithTest.pdb
