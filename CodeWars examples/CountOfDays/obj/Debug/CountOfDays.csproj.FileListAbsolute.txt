@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\CountOfDays\bin\Debug\CountOfDays.exe.config
+C:\Users\rocho\Desktop\CountOfDays\bin\Debug\CountOfDays.exe
+C:\Users\rocho\Desktop\CountOfDays\bin\Debug\CountOfDays.pdb
+C:\Users\rocho\Desktop\CountOfDays\obj\Debug\CountOfDays.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\CountOfDays\obj\Debug\CountOfDays.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\CountOfDays\obj\Debug\CountOfDays.exe
+C:\Users\rocho\Desktop\CountOfDays\obj\Debug\CountOfDays.pdb
