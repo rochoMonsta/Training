@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Ordered_Count_of_Characters\bin\Debug\Ordered_Count_of_Characters.exe.config
+C:\Users\rocho\Desktop\Ordered_Count_of_Characters\bin\Debug\Ordered_Count_of_Characters.exe
+C:\Users\rocho\Desktop\Ordered_Count_of_Characters\bin\Debug\Ordered_Count_of_Characters.pdb
+C:\Users\rocho\Desktop\Ordered_Count_of_Characters\obj\Debug\Ordered_Count_of_Characters.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Ordered_Count_of_Characters\obj\Debug\Ordered_Count_of_Characters.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Ordered_Count_of_Characters\obj\Debug\Ordered_Count_of_Characters.exe
+C:\Users\rocho\Desktop\Ordered_Count_of_Characters\obj\Debug\Ordered_Count_of_Characters.pdb
