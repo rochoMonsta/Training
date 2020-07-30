@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Mumbling\bin\Debug\Mumbling.exe.config
+C:\Users\rocho\Desktop\Mumbling\bin\Debug\Mumbling.exe
+C:\Users\rocho\Desktop\Mumbling\bin\Debug\Mumbling.pdb
+C:\Users\rocho\Desktop\Mumbling\obj\Debug\Mumbling.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Mumbling\obj\Debug\Mumbling.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Mumbling\obj\Debug\Mumbling.exe
+C:\Users\rocho\Desktop\Mumbling\obj\Debug\Mumbling.pdb
