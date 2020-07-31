@@ -1,97 +1,96 @@
-// 1 Функції
+const cars = ['Mazda', 'Ford', 'BMW', 'Mercedes']
+const fib = [0, 1, 1, 2, 3, 5, 8, 13]
+const people = [
+    {name: 'Роман', surname: 'Чолкан', budget: 4200},
+    {name: 'Вадім', surname: 'Яковлєв', budget: 3750},
+    {name: 'Антон', surname: 'Ломовацький', budget: 1900},
+    {name: 'Соломія', surname: 'Сорокотяга', budget: 12000},
+    {name: 'Ірена', surname: 'Сорокотяга', budget: 1240}
+]
 
-//function declaration
-//можна викликати в будь якому місці коду, навіть до створення функції
-// function getGreet(name){
-//     console.log('Hello, ', name)
-// }
-//function expression
-//можна звератись тільки тоді, коли функція створена, тобто якщо виклик функції знаходиться на 3 рядку, а сама функція після 3 рядка
-//то виникне помилка
-// const greet = function(name){ //анонімна функція яка запакована в змінну
-//     console.log('Hello2, ', name)
-// }
-// const greet3 = function greetName(name){
-//     console.log('Hello greetName func ', name)
-// }
-// getGreet('Roman')
-// greet('Roman')
-// greet3('Roman')
+// cars.push('Lada') // додаємо елемент в кінець масиву
+// cars.unshift('Porche') // додаємо елемент на початок масиву
 
-// 2 Анонімні функції
+// console.log(cars)
 
-// let counter = 1
-// const interval = setInterval(function(){
-//     if (counter === 10){
-//         clearInterval(interval)
-//     }else{
-//         console.log(counter++)
+// const firstCar = cars.shift() // забирає перший елемент з масиву та вертає його
+// const lastCar = cars.pop() // забирає останній елемент з масиву та вертає його
+
+// console.log('First car: ' + firstCar)
+// console.log('Last car: ' + lastCar)
+
+// console.log(cars)
+// console.log(cars.reverse())
+
+// const palindrome = (word) => {
+//     return word.toLowerCase() === word.toLowerCase().split('').reverse().join('') ? true : false
+// }
+// console.log(palindrome('Aba'))
+
+// cars[cars.indexOf('BMW')] = 'Lada' // отримуємо індекс заданого елементу та міняємо значення по індексу
+// console.log(cars)
+
+// const index = people.findIndex(function(person){
+//     return person.surname === 'Чолкан'
+// })
+// const some = people.find(function(person){
+//     return person.surname === 'Сорокотяга'
+// })
+// console.log(people[index])
+// console.log(some)
+
+// function getPerson(personSurname){
+//     for (const person of people){
+//         if (person.surname === personSurname){
+//             return person
+//         }
 //     }
-// }, 1000)
-
-// 3 Стрєлочние функції
-
-// function getGreet(name){
-//     console.log('Hello, ', name)
+//     return -1
 // }
+// const person = people.find((person) => {
+//     return person.surname === 'Сорокотяга'
+// })
 
-// const arrow = (name) => {
-//     console.log('Hello, ', name)
-// }
-// const arrow2 = name => console.log('Hello, ', name) // same
+// console.log(person)
+// console.log(getPerson('Сорокотяга'))
 
-// const pow2 = num => {
-//     return num ** 2 //Math.pow(num, 2)
-// }
-// const pow22 = num => num ** 2 //same to pow2
+// const personSurname = 'Сорокотяга'
+// const person = people.find(x => x.surname === personSurname)
 
-// getGreet('Roman') //same
-// arrow('Roman') //same
-// arrow2('Roman')
+// console.log(cars.includes('BMW')) // includes - повертає true/false - якщо переданий елемен є наявний в масиві
+// console.log(person)
+// console.log((typeof person) === 'undefined')
 
-// console.log(pow2(5))
-// console.log(pow22(5))
+// const upperCaseCars = cars.map(x => x.toUpperCase())
+// console.log(upperCaseCars)
 
-// 4 параметри по замовчуванню
+// const fib2Pow = fib.map(number => number ** 2)
+// console.log(fib2Pow)
 
-// const sum = (a, b) => a + b
-// console.log(sum(41, 1)) //якщо не передати 1 з чисел отримаємо NaN
+// const fibonacci = number => number ** 2
+// const sqrt = number => Math.sqrt(number)
 
-//Ми можемо задати значення по замовчуванню наступним чином, в параметрах прописати значення яке буде застосовуватись в випадку
-// відсутності параметра b = 1
-// const sum2 = (a, b = 1) => a + b
-// console.log(sum2(41)) // 42
+// const fibonacci2 = fib.map(fibonacci).map(sqrt)
+// console.log(fibonacci2)
 
-// const sum3 = (a = 1, b = 1) => a + b
-// console.log(sum3()) //2
+// const family = people.filter(person => person.surname === 'Сорокотяга')
+// console.log(family)
 
-// const sum4 = (a = 2, b = a * 2) => a + b
-// console.log(sum4()) //6
+// const evenNumbers = fib.filter(x => x % 2 === 0)
+// console.log(evenNumbers)
 
-// const greet = (name, age) => console.log(`Вітаємо, ${name}. Тобі вже ${age} років!`)
-// greet('Roman', 20)
-
-// const greet1 = (name = 'User', age = '16') => console.log(`Вітаємо, ${name}. Тобі вже ${age} років!`)
-// greet1()
-
-//... - те ж саме що params c# (...name) - групує всі вхідні елементи в масив під назвою name
-// function sumAll(...all){
-//     let result = 0
-//     for (let element of all){
-//         result += element
-//     }
-//     return result
-// }
-// console.log(sumAll(1,2,3,4,5,6,7,8))
-
-// 5 Замикання
-
-function createMember(name){
-    return function(lastName){ //Отримуємо функцію яка зберігає в собі параметр name після чого працює завжди з ним
-        console.log(name + ' ' + lastName)
+const allBudget = people.reduce((budget, person) => {
+    if (person.budget > 2000){
+        budget += person.budget
     }
-}
-const logWithFirstName = createMember('Roman')
-console.log(logWithFirstName('Cholkan'))
-console.log(logWithFirstName('Black'))
-console.log(logWithFirstName('Stone'))
+    return budget
+}, 0)
+
+const allBudget2 = people.filter(person => person.budget > 2000)
+    .reduce((budget, person) => {
+        budget += person.budget
+        return budget
+    }, 0)
+
+console.log(allBudget)
+console.log(allBudget2)
