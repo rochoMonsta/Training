@@ -1,96 +1,97 @@
-const cars = ['Mazda', 'Ford', 'BMW', 'Mercedes']
-const fib = [0, 1, 1, 2, 3, 5, 8, 13]
-const people = [
-    {name: 'Роман', surname: 'Чолкан', budget: 4200},
-    {name: 'Вадім', surname: 'Яковлєв', budget: 3750},
-    {name: 'Антон', surname: 'Ломовацький', budget: 1900},
-    {name: 'Соломія', surname: 'Сорокотяга', budget: 12000},
-    {name: 'Ірена', surname: 'Сорокотяга', budget: 1240}
-]
+const person = {
+    name: 'Roman',
+    surname: 'Cholkan',
+    age: 20,
+    languages: ['Ru', 'En', 'Ukr'],
+    personInfo(){
+        console.log(`${this.name} - ${this.surname} - ${this.age}`)
+    },
+    getLanguage(){
+        for (let language of this.languages){
+            console.log(language)
+        }
+    },
+    'phone number': '+380636881341',
+    ['key_' + (1 + 3)]: 'Some info' //key_4
+}
+// //Можна звертатись до полів по їх назві
+// console.log(person.name)
+// console.log(person['name'])
 
-// cars.push('Lada') // додаємо елемент в кінець масиву
-// cars.unshift('Porche') // додаємо елемент на початок масиву
+// //Можна звертатись до полів за допомогою окремих зміних який присвоїли ім'я поля
+// const personPhoneNumber = 'phone number'
+// console.log(person[personPhoneNumber])
 
-// console.log(cars)
+// console.log(person['phone number'])
 
-// const firstCar = cars.shift() // забирає перший елемент з масиву та вертає його
-// const lastCar = cars.pop() // забирає останній елемент з масиву та вертає його
+// person.personInfo()
+// person.getLanguage()
 
-// console.log('First car: ' + firstCar)
-// console.log('Last car: ' + lastCar)
+// person.age++
+// person.languages.push('Pl')
+// console.log(person)
 
-// console.log(cars)
-// console.log(cars.reverse())
+// person['key_4'] = undefined
+// //Видалення полів з об'єкту
+// delete person['key_4']
 
-// const palindrome = (word) => {
-//     return word.toLowerCase() === word.toLowerCase().split('').reverse().join('') ? true : false
-// }
-// console.log(palindrome('Aba'))
 
-// cars[cars.indexOf('BMW')] = 'Lada' // отримуємо індекс заданого елементу та міняємо значення по індексу
-// console.log(cars)
+// const name = person.name
+// const surname = person.surname
+// const age = person.age
 
-// const index = people.findIndex(function(person){
-//     return person.surname === 'Чолкан'
-// })
-// const some = people.find(function(person){
-//     return person.surname === 'Сорокотяга'
-// })
-// console.log(people[index])
-// console.log(some)
+// const {name, surname, age, languages} = person //отримуємо значення з полів певного об'єкта "накшталт (out c#)"
+// //or Можемо перевизначити імена вказавши поля які хочемо витягнути з об'єкту та їхню нову назву
+// //також можна виставляти значення по замовчуванню (age: personAge = 16)
+// const {name: personName, languages: personLanguage, age: personAge = 16} = person
+// console.log(personLanguage, personName)
 
-// function getPerson(personSurname){
-//     for (const person of people){
-//         if (person.surname === personSurname){
-//             return person
-//         }
+// console.log(name, surname, age, languages)
+
+
+//Цикл в якому через оператор in ми отримуємо ключі об'єкту person, після чого ми можемо звертатись до полів за ключами
+// for (let key in person){
+//     //перевірка чи ключ є ключом об'єкта щоб не використовувати ключі прототипа
+//     if (person.hasOwnProperty(key)){
+//         console.log(`key: ${key}, value: ${person[key]}`)
 //     }
-//     return -1
 // }
-// const person = people.find((person) => {
-//     return person.surname === 'Сорокотяга'
-// })
-
+// const personKeys = Object.keys(person) // отримуємо всі ключі заданого об'єкту
+// for (let key of personKeys){
+//     console.log(`key: ${key}, value: ${person[key]}`)
+// }
+// personKeys.forEach(key => console.log(`key: ${key}; value: ${person[key]}`))
+// Object.keys(person).forEach(key => console.log(`key: ${key}; value: ${person[key]}`))
 // console.log(person)
-// console.log(getPerson('Сорокотяга'))
 
-// const personSurname = 'Сорокотяга'
-// const person = people.find(x => x.surname === personSurname)
-
-// console.log(cars.includes('BMW')) // includes - повертає true/false - якщо переданий елемен є наявний в масиві
-// console.log(person)
-// console.log((typeof person) === 'undefined')
-
-// const upperCaseCars = cars.map(x => x.toUpperCase())
-// console.log(upperCaseCars)
-
-// const fib2Pow = fib.map(number => number ** 2)
-// console.log(fib2Pow)
-
-// const fibonacci = number => number ** 2
-// const sqrt = number => Math.sqrt(number)
-
-// const fibonacci2 = fib.map(fibonacci).map(sqrt)
-// console.log(fibonacci2)
-
-// const family = people.filter(person => person.surname === 'Сорокотяга')
-// console.log(family)
-
-// const evenNumbers = fib.filter(x => x % 2 === 0)
-// console.log(evenNumbers)
-
-const allBudget = people.reduce((budget, person) => {
-    if (person.budget > 2000){
-        budget += person.budget
+//Context
+const logger = {
+    getKeys(){
+        console.log('Object keys: ', Object.keys(this))
+    },
+    getKeysAndValues(){
+        Object.keys(this).forEach(key => console.log(`key: ${key} - value: ${this[key]}`))
+    },
+    withParams(start = false, between = false, end = false){
+        if (start){
+            console.log('---------- start ----------')
+        }
+        Object.keys(this).forEach((key, index, array) => {
+            console.log(`key: "${key}" - value: "${this[key]}"`)
+            if (between && index != array.length - 1){
+                console.log('--------------------')
+            }
+        })
+        if (end){
+            console.log('---------- end ----------')
+        }
     }
-    return budget
-}, 0)
+}
+// const bound = logger.getKeys.bind(person) // bind означає, що ми замість параметра this передаємо наш об'єкт    
+// bound()
 
-const allBudget2 = people.filter(person => person.budget > 2000)
-    .reduce((budget, person) => {
-        budget += person.budget
-        return budget
-    }, 0)
-
-console.log(allBudget)
-console.log(allBudget2)
+// //те ж саме що bind тільки в цьому випадку, ми вже не створюємо функцію а одразу її застосовуємо
+// logger.getKeys.call(person)
+// logger.getKeysAndValues.call(person)
+//logger.withParams.call(person, true, true, true)
+logger.withParams.apply(person, [true, true, true]) // передаємо наш контекст та ті елементи, які передаються разом з ним в форматі масиву
