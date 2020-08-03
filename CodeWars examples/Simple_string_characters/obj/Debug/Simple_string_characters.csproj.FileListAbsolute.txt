@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Simple_string_characters\obj\Debug\Simple_string_characters.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Simple_string_characters\obj\Debug\Simple_string_characters.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Simple_string_characters\bin\Debug\Simple_string_characters.exe.config
+C:\Users\rocho\Desktop\Simple_string_characters\bin\Debug\Simple_string_characters.exe
+C:\Users\rocho\Desktop\Simple_string_characters\bin\Debug\Simple_string_characters.pdb
+C:\Users\rocho\Desktop\Simple_string_characters\obj\Debug\Simple_string_characters.exe
+C:\Users\rocho\Desktop\Simple_string_characters\obj\Debug\Simple_string_characters.pdb
