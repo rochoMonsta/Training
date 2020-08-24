@@ -1,0 +1,7 @@
+C:\Users\rocho\Desktop\Hearthstone\bin\Debug\Hearthstone.exe.config
+C:\Users\rocho\Desktop\Hearthstone\bin\Debug\Hearthstone.exe
+C:\Users\rocho\Desktop\Hearthstone\bin\Debug\Hearthstone.pdb
+C:\Users\rocho\Desktop\Hearthstone\obj\Debug\Hearthstone.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\Hearthstone\obj\Debug\Hearthstone.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\Hearthstone\obj\Debug\Hearthstone.exe
+C:\Users\rocho\Desktop\Hearthstone\obj\Debug\Hearthstone.pdb
