@@ -26,7 +26,7 @@ namespace Game.Targets
                 var asteroid = new Asteroid("*", coordinateX, 1);
                 asteroid.MoveAsteroidAsync(frame, scene);
 
-                Thread.Sleep(1500);
+                Thread.Sleep(250);
             }
         }
         private async void MoveAsteroidAsync(List<string[]> frame, Scene scene)

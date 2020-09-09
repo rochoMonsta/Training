@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\All\\GitHub\\Training\\Game\\Game.csproj",
-      "projectName": "Game",
-      "projectPath": "G:\\All\\GitHub\\Training\\Game\\Game.csproj",
+      "projectUniqueName": "C:\\Users\\rocho\\Desktop\\TheSnakeGame\\TheSnakeGame.csproj",
+      "projectName": "TheSnakeGame",
+      "projectPath": "C:\\Users\\rocho\\Desktop\\TheSnakeGame\\TheSnakeGame.csproj",
       "packagesPath": "C:\\Users\\rocho\\.nuget\\packages\\",
-      "outputPath": "G:\\All\\GitHub\\Training\\Game\\obj\\",
+      "outputPath": "C:\\Users\\rocho\\Desktop\\TheSnakeGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

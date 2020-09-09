@@ -1,0 +1,13 @@
+C:\Users\rocho\Desktop\TheSnakeGame\bin\Debug\netcoreapp3.1\TheSnakeGame.exe
+C:\Users\rocho\Desktop\TheSnakeGame\bin\Debug\netcoreapp3.1\TheSnakeGame.deps.json
+C:\Users\rocho\Desktop\TheSnakeGame\bin\Debug\netcoreapp3.1\TheSnakeGame.runtimeconfig.json
+C:\Users\rocho\Desktop\TheSnakeGame\bin\Debug\netcoreapp3.1\TheSnakeGame.runtimeconfig.dev.json
+C:\Users\rocho\Desktop\TheSnakeGame\bin\Debug\netcoreapp3.1\TheSnakeGame.dll
+C:\Users\rocho\Desktop\TheSnakeGame\bin\Debug\netcoreapp3.1\TheSnakeGame.pdb
+C:\Users\rocho\Desktop\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.csprojAssemblyReference.cache
+C:\Users\rocho\Desktop\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.AssemblyInfoInputs.cache
+C:\Users\rocho\Desktop\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.AssemblyInfo.cs
+C:\Users\rocho\Desktop\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\rocho\Desktop\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.dll
+C:\Users\rocho\Desktop\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.pdb
+C:\Users\rocho\Desktop\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.genruntimeconfig.cache

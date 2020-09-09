@@ -11,3 +11,16 @@ C:\Users\rocho\Desktop\Game\obj\Debug\netcoreapp3.1\Game.csproj.CoreCompileInput
 C:\Users\rocho\Desktop\Game\obj\Debug\netcoreapp3.1\Game.dll
 C:\Users\rocho\Desktop\Game\obj\Debug\netcoreapp3.1\Game.pdb
 C:\Users\rocho\Desktop\Game\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache
+G:\All\GitHub\Training\Game\bin\Debug\netcoreapp3.1\Game.exe
+G:\All\GitHub\Training\Game\bin\Debug\netcoreapp3.1\Game.deps.json
+G:\All\GitHub\Training\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.json
+G:\All\GitHub\Training\Game\bin\Debug\netcoreapp3.1\Game.runtimeconfig.dev.json
+G:\All\GitHub\Training\Game\bin\Debug\netcoreapp3.1\Game.dll
+G:\All\GitHub\Training\Game\bin\Debug\netcoreapp3.1\Game.pdb
+G:\All\GitHub\Training\Game\obj\Debug\netcoreapp3.1\Game.csprojAssemblyReference.cache
+G:\All\GitHub\Training\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfoInputs.cache
+G:\All\GitHub\Training\Game\obj\Debug\netcoreapp3.1\Game.AssemblyInfo.cs
+G:\All\GitHub\Training\Game\obj\Debug\netcoreapp3.1\Game.csproj.CoreCompileInputs.cache
+G:\All\GitHub\Training\Game\obj\Debug\netcoreapp3.1\Game.dll
+G:\All\GitHub\Training\Game\obj\Debug\netcoreapp3.1\Game.pdb
+G:\All\GitHub\Training\Game\obj\Debug\netcoreapp3.1\Game.genruntimeconfig.cache
