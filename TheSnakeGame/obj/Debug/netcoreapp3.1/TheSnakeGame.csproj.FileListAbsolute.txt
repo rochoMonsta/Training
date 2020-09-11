@@ -11,3 +11,16 @@ C:\Users\rocho\Desktop\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.csproj.
 C:\Users\rocho\Desktop\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.dll
 C:\Users\rocho\Desktop\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.pdb
 C:\Users\rocho\Desktop\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.genruntimeconfig.cache
+G:\All\GitHub\Training\TheSnakeGame\bin\Debug\netcoreapp3.1\TheSnakeGame.exe
+G:\All\GitHub\Training\TheSnakeGame\bin\Debug\netcoreapp3.1\TheSnakeGame.deps.json
+G:\All\GitHub\Training\TheSnakeGame\bin\Debug\netcoreapp3.1\TheSnakeGame.runtimeconfig.json
+G:\All\GitHub\Training\TheSnakeGame\bin\Debug\netcoreapp3.1\TheSnakeGame.runtimeconfig.dev.json
+G:\All\GitHub\Training\TheSnakeGame\bin\Debug\netcoreapp3.1\TheSnakeGame.dll
+G:\All\GitHub\Training\TheSnakeGame\bin\Debug\netcoreapp3.1\TheSnakeGame.pdb
+G:\All\GitHub\Training\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.csprojAssemblyReference.cache
+G:\All\GitHub\Training\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.AssemblyInfoInputs.cache
+G:\All\GitHub\Training\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.AssemblyInfo.cs
+G:\All\GitHub\Training\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.csproj.CoreCompileInputs.cache
+G:\All\GitHub\Training\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.dll
+G:\All\GitHub\Training\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.pdb
+G:\All\GitHub\Training\TheSnakeGame\obj\Debug\netcoreapp3.1\TheSnakeGame.genruntimeconfig.cache

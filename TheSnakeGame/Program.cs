@@ -7,6 +7,7 @@ namespace SnakeGame
 {
     class Game
     {
+        static bool isGameOver = false;
         static readonly int x = 80;
         static readonly int y = 26;
 
@@ -29,7 +30,7 @@ namespace SnakeGame
 
             time = new Timer(Loop, null, 0, 200);
 
-            while (true)
+            while (!isGameOver)
             {
                 if (Console.KeyAvailable)
                 {
@@ -37,15 +38,26 @@ namespace SnakeGame
                     snake.Rotation(key.Key);
                 }
             }
+            Console.ReadKey();
         }
         static void Loop(object obj)
         {
             if (walls.IsHit(snake.GetHead()) || snake.IsHit(snake.GetHead()))
-                time.Change(0, Timeout.Infinite);
+            {
+                //time.Change(0, Timeout.Infinite);
+                GameOver();
+            }
             else if (snake.Eat(foodFactory.food))
                 foodFactory.CreateFood();
             else
                 snake.Move();
+        }
+        static void GameOver()
+        {
+            Console.Clear();
+            Console.WriteLine("----------GAME OVER----------");
+            Console.WriteLine($"----------Score: {snake.score}----------");
+            isGameOver = true;
         }
     }
 
@@ -127,6 +139,8 @@ namespace SnakeGame
 
     class Snake
     {
+        public int score = 0;
+
         private List<Point> snake;
 
         private Direction direction;
@@ -143,7 +157,7 @@ namespace SnakeGame
             snake = new List<Point>();
             for (int i = x - length; i < x; i++)
             {
-                Point p = (i, y, '*');
+                Point p = (i, y, '8');
                 snake.Add(p);
 
                 p.Draw();
@@ -173,6 +187,7 @@ namespace SnakeGame
             {
                 snake.Add(head);
                 head.Draw();
+                score += 10;
                 return true;
             }
             return false;
