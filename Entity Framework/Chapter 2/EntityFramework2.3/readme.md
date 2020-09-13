@@ -1,9 +1,9 @@
 # Entity Framework (Chapter 2, Lesson 3)
 
-## Короткий конспект
+## Коротка інформація
 [Lesson link](https://metanit.com/sharp/entityframeworkcore/2.4.php)
 
-## Short synopsis
+## Короткий конспект
 Створення таблиці в БД по заданій моделі, в даному випадку *Country*:
 ```csharp
 protected override void OnModelCreating(ModelBuilder modelBuilder)
