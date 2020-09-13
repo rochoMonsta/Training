@@ -27,7 +27,7 @@
         ```csharp
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-                modelBuilder.Entity<Product>().Ignore(b => b.Rate);
+            modelBuilder.Entity<Product>().Ignore(b => b.Rate);
         }
         ```
    * За допомогою анотацій (ігноруємо свойсво Rate за допомогою атрибуту *[NotMapped]* ):
